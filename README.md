@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Web Development Program at Humber!
+- 👯 I’m looking to collaborate on building awesome projects
+- 
 <!--
 **unlimitedTing/unlimitedTing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
